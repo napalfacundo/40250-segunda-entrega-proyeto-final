@@ -1,0 +1,21 @@
+.tileCard {
+    display: flex;
+    flex-direction: column;
+    max-width: 104px  ;
+    border: 1px solid;
+    padding: 48px;
+    /* margin: 100px; */
+    justify-content: center;
+    align-items: center;
+    padding-top: unset;
+    background-color: ghostwhite;
+    margin-right: 24px;
+  }
+  
+  .tile-img {
+    max-width: 201px;
+  }
+  
+  #tilesContainer {
+    display: flex;
+  }
